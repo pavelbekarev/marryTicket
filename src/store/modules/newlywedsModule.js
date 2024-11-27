@@ -4,7 +4,6 @@ const state = {
     all: []
 }
 
-
 const getters = {}
 
 const actions = {
